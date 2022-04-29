@@ -1,0 +1,2 @@
+D:\Unity\SWENG480\ProjectZephyr\ProjectZephyr\obj\Debug\Unity.CollabProxy.Editor.csproj.AssemblyReference.cache
+D:\Unity\SWENG480\ProjectZephyr\ProjectZephyr\obj\Debug\Unity.CollabProxy.Editor.csproj.CoreCompileInputs.cache

@@ -1,0 +1,2 @@
+D:\Unity\SWENG480\ProjectZephyr\ProjectZephyr\obj\Debug\PlayMode.Player.csproj.AssemblyReference.cache
+D:\Unity\SWENG480\ProjectZephyr\ProjectZephyr\obj\Debug\PlayMode.Player.csproj.CoreCompileInputs.cache

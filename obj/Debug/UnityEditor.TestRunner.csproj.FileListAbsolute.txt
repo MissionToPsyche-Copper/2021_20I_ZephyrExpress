@@ -1,0 +1,2 @@
+D:\Unity\SWENG480\ProjectZephyr\ProjectZephyr\obj\Debug\UnityEditor.TestRunner.csproj.AssemblyReference.cache
+D:\Unity\SWENG480\ProjectZephyr\ProjectZephyr\obj\Debug\UnityEditor.TestRunner.csproj.CoreCompileInputs.cache

@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenuScene.unity
+    guid: f3c761a825bcd9645bffefadc489f45b
+  - enabled: 1
+    path: Assets/Scenes/IntroBackground.unity
+    guid: 7bcbe6aa71cfd4f6494821f2335e1d11
+  - enabled: 1
+    path: Assets/Scenes/LevelOneIntroScene.unity
+    guid: 4d8021a550418dc488933feae20096b3
+  - enabled: 1
+    path: Assets/Scenes/PlayingScene.unity
+    guid: fa27069c34c21974d8348d642e141afe
+  - enabled: 1
+    path: Assets/Scenes/LevelComplete.unity
+    guid: 01737e283b861b14089c1cd561d3eaa2
+  - enabled: 1
+    path: Assets/Scenes/LevelSummary.unity
+    guid: e17f3882b2f92124b982b8512d86f2f1
+  - enabled: 1
+    path: Assets/Scenes/Ship Select.unity
+    guid: 3d61c4a8b1e12104684ac2d73536cb16
+  - enabled: 1
+    path: Assets/Scenes/LevelTwo.unity
+    guid: dc1e55aff8a53244998037ec0b32914e
+  - enabled: 1
+    path: Assets/Scenes/LevelThree.unity
+    guid: 996a9532ef1d66647be6d13c068caa09
+  - enabled: 1
+    path: Assets/Scenes/LevelFour.unity
+    guid: 81619bf592df0ba47969e3aafd28dba2
+  - enabled: 1
+    path: Assets/Scenes/LevelCompete2.unity
+    guid: 220f5f226d8b7c7409e46113417ab628
+  - enabled: 1
+    path: Assets/Scenes/LevelComplete3.unity
+    guid: 214f5f69f81430e4c8777c48d335ae13
+  - enabled: 1
+    path: Assets/Scenes/levelComplete4.unity
+    guid: 9849228fcb4ab4f4b86a0d5823c05eb4
+  - enabled: 1
+    path: Assets/Scenes/LevelComplete5.unity
+    guid: 00f5c565def54a04691195a0badd80c5
+  - enabled: 1
+    path: Assets/Scenes/LevelFive.unity
+    guid: b4f9e1c150bc2aa4b9e2cfe5be8ae8a1
+  m_configObjects: {}

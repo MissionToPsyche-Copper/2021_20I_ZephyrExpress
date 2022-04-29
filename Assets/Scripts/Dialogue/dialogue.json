@@ -1,0 +1,84 @@
+{
+  "IntroScene": [
+    "Psyche is a unique asteroid that orbits the Sun between Mars and Jupiter.",
+    "It's appears to be made up of the exposed nickel-iron core of an early planet, one of the building blocks of our solar system.",
+    "Earth's core is too deep for scientists to study it so this asteroid gives us an opportunity to see how our planets were actually formed, how cool is that?!",
+    "Currently you are on your way to Psyche to begin your volunteer work to aid in the exploration of the asteroid.",
+    "You'll be given different tasks to complete that will help the researchers finish their work and help us learn all about a new world"
+  ],
+  "Level1": [
+    "Joe Branson: Hey there! Welcome to Psyche. I hope the shuttle ride over here wasn't ASTRONOMICALLY long. I'm Joe Branson, the big cheese of Zephyr Express.",
+    "Joe Branson: Anyway, lets get you started. First things first. You're going to need a ship. Go ahead and look over in the hangar and pick one you like",
+    "Joe Branson: Good choice! That's one mighty fine ship. You could say...it's out of this world.",
+    "Joe Branson: You're first task is to take this shipment of unicorn horns over to Neo Houston Base on the other side of the asteroid.",
+    "Joe Branson: Those fancy researchers over there need it for something. Bob will load'em up for you at light speed.",
+    "Joe Branson: Okay, you're all set. Now these things will be ruined if you take too long or if they get too damaged. So make sure you get there on time and avoid crashing into anything!",
+    "Joe Branson: Time to get going! I need my space now."
+  ],
+  "GameOverLevel1": {
+    "OutofTime": "The unicorn horns spoiled!",
+    "Damage": "Your ship broke down! The unicorn horns disintegrated!"
+  },
+  "Level2": [
+    "David O'Dorr: Looks like you made it! I'm Dr. David O'Dorr, the head researcher here at Neo Houston Base.",
+    "David O'Dorr: Thanks for flying these unicorn horns over to us so quickly. We were in desperate need of these to finish our research.",
+    "David O'Dorr: These things are really rare. There aren't many unicorns out here out here in these parts so when they shed their horns it gives us a really cool opportunity to learn about these magnificiant creatures.",
+    "David O'Dorr: I'm not going to take up anymore of your time. We need you to take these fuel cells out to New Anchorage Base. It gets really cold out there during this time of year and they're running low on their heating supplies!",
+    "James Brian: Hey, it's you bozos from Zephyr Express",
+    "James Brian: Looks like they gave you the easy mission. We're hauling real cargo over here at Versatile Express.",
+    "James Brian: Maybe if you ever git gud at delivering stuff they might actually give you real work.",
+    "James Brian: Later, losers. (slightly evil laugh)",
+    "David O'Dorr: Don't listen to that guy. He's always really rude when he's here.",
+    "David O'Door: You might want to get going though. New Anchorage Base really does need those fuel cells."
+  ],
+  "GameOverLevel2": {
+    "OutOfTime": "Next time were going to just hire a delivery company. Maybe we'll just hire Planet Express next time!",
+    "Damage": "The fuel cells are damaged. Now what's Anchorage Base going to do?"
+  },
+  "Level3": [
+    "Kristian Schmeichel: Took you long enough! We're freezing out here.",
+    "Ashmee Ivanovich: Don't be so rude Schmeichel. You know how hard it can be to get supplies out here!",
+    "Kristian Schmeichel: Yeah but it doesn't take that long! The dragon eggs have to be kept at a very specific temperature. I knew we should have just used Versatile Express. That James guy is the real deal",
+    "Ashmee Ivanovich: Sorry about Kristian.",
+    "Kristian Schmeichel: That's Dr. Schmeichel to you, rookie!",
+    "Ashmee Ivanovich: Don't listen to him, he's too Sirius sometimes. I'm Dr. Ashmee Ivanovic, the head dragonologist. Thank you for making the long trip all the way over here.",
+    "Krisitan Schmeichel: Here, hurry up and take these matured dragon eggs out to Old Forge Junction. Move it, they have to get there before they hatch otherwise you're goign to have one fun time with a bunch of baby dragons on your ship.",
+    "James Brian: So we meet again Zephyr Express.",
+    "James Brian: I didn't think that rusty ship of yours would actually make it out here.",
+    "James Brian: Either way, I've made three deliveries since we last met and it looks you're barely finishing one.",
+    "James Brian: I'd teach you how to fly like me, but we all know that's impossible.",
+    "James Brian: Sayonara, dweebs.",
+    "Kristian Schmeichel: Now that's a real delivery company! Oh, you're still here?"
+  ],
+  "GameOverLevel3": {
+    "OutOfTime": "The dragons hatched. They're breathing fire everywhere! Now you're going to have to call Psyche Mythical Animal Control.",
+    "Damage": "The dragons hatched. They're breathing fire everywhere! Now you're going to have to call Psyche Mythical Animal Control."
+  },
+  "Level4": [
+    "Jeffrey Ibrahimovic: Thanks for the dragon eggs. We have to put these on the next train to Port Rich.",
+    "James Brian: Oh my, you actually made it.",
+    "James Brian: Did you guys enjoy my little...gift?",
+    "Jeffrey Ibrahimovic: What perfect timing. I needed to speak with both of you.",
+    "Jeffrey Ibrahimovic: Both companies are 1 delivery away from 1 million deliveries this year.",
+    "Jeffrey Ibrahimovic: There's one last big delivery to make before the year is over. Now this delivery is too big for either of your ships so you'll have to split it.",
+    "Jeffrey Ibrahimovic: I'm going to need you to take this equiptment that came from Port Rich over to New New Orleans Base. The base is still being constructed so the faster you get there the better.",
+    "Jeffrey Ibrahimovic: Whoever manages to make this delivery first will reach 1 million and become delivery company of the year!",
+    "James Brian: You might as well send that award over to Versatile Express headquarters because we're going to win.",
+    "James Brian: I'll tell you what Zephyr Express, I'll give you a head start. Not like it matters anyway."
+  ],
+  "GameOverLevel4": {
+    "OutOfTime": "Overtime is strictly against company policy!",
+    "Damage": "Your ship took too much damage and broke down. This was Old Joe's favorite ship!"
+  },
+  "Level5": [
+    "Robert Paisano: "
+    "Joe Branson: Finished delivering those unicorn horns already?",
+    "Joe Branson: What do you mean Ibrahimovic has something for me?",
+    "Joe Branson: Good ol' Ibramovic, always sending me crazy things! What use do I have for blinker fluid?",
+    "James Brian: Bravo, even with that setback you still managed to make the delivery.",
+    "James Brian: Delivery at the speed of light, huh? I guess you guys aren't all talk.",
+    "Jeffrey Ibrahimovic: ",
+    "Jeffrey Ibrahimovic: What? No, I'm not tipping you! I know the Zephyr Express policies.",
+    "Jeffrey Ibrahimovic: I have a special delivery for Old Joe out at Zephyr Express HQ. This is for his eyes only!"
+  ]
+}

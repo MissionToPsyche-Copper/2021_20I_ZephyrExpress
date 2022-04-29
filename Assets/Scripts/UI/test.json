@@ -1,0 +1,32 @@
+{
+  "IntroScene": [
+    "Psyche is a unique asteroid that orbits the Sun between Mars and Jupiter.",
+    "It's appears to be made up of the exposed nickel-iron core of an early planet, one of the building blocks of our solar system.",
+    "Earth's core is too deep for scientists to study it so this asteroid gives us an opportunity to see how our planets were actually formed, how cool is that?!",
+    "Currently you are on your way to Psyche to begin your volunteer work to aid in the exploration of the asteroid.",
+    "You'll be given different tasks to complete that will help the researchers finish their work and help us learn all about a new world"
+  ],
+  "Level1": [
+    "JoeIbrahim: Hey there! Welcome to Psyche. I hope the shuttle ride over here wasn't ASTRONOMICALLY long. I'm Joe Ibrahim, the big cheese around these parts.",
+    "JoeIbrahim: Anyway, lets get you started. First things first. You're going to need a ship. Go ahead and look over in the hangar and pick one you like",
+    "JoeIbrahim: Good choice! That's one mighty fine ship. You could say...it's out of this world.",
+    "JoeIbrahim: You're first task is to take this shipment of unicorn horns over to Houston Base on the other side of the asteroid.",
+    "JoeIbrahim: Those fancy researchers over there need it for something. Bob will load'em up for you at light speed.",
+    "JoeIbrahim: Okay, you're all set. Now these things will be ruined if you take too long or if they get too damaged. So make sure you get there on time and avoid crashing into anything!",
+    "JoeIbrahim: Time to get going! I need my space now."
+  ],
+  "GameOverLevel1": {
+    "OutofTime": "The unicorn horns spoiled!",
+    "Damage":  "Your ship broke down! The unicorn horns disintegrated!"
+  },
+  "Level2": [
+    "DavidBowman: Looks like you made it! I'm Dr. David Bowman, the head researcher here at Houston Base.",
+    "DavidBowman: Thanks for flying these unicorn horns over to us so quickly. We were in desperate need of these to finish our research.",
+    "DavidBowman: These things are really rare. There aren't many unicorns out here out here in these parts so when they shed their horns it gives us a really cool opportunity to learn about these magnificiant creatures.",
+    "DavidBowman: I'm not going to take up anymore of your time. We need you to take these fuel cells out to Anchorage Base. It gets really cold out there during this time of year and they're running low on their heating supplies!"
+  ],
+  "GameOverLevel2": {
+    "OutOfTime": "Next time were going to just hire a delivery company. Maybe we'll just hire Planet Express!",
+    "Damage":  "The fuel cells are damaged. Now what's Anchorage Base going to do?"
+  }
+}

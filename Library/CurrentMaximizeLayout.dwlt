@@ -1,0 +1,1931 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 3}
+  - {fileID: 15}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 30
+    width: 3440
+    height: 1307
+  m_MinSize: {x: 679, y: 492}
+  m_MaxSize: {x: 14002, y: 14042}
+  vertical: 0
+  controlID: 25
+--- !u!114 &2
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12013, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Scene
+    m_Image: {fileID: 2593428753322112591, guid: 0000000000000000d000000000000000, type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 652
+    y: 73
+    width: 1709
+    height: 754
+  m_ViewDataDictionary: {fileID: 0}
+  m_ShowContextualTools: 0
+  m_WindowGUID: cc27987af1a868c49b0894db9c0f5429
+  m_Gizmos: 0
+  m_OverrideSceneCullingMask: 6917529027641081856
+  m_SceneIsLit: 1
+  m_SceneLighting: 1
+  m_2DMode: 1
+  m_isRotationLocked: 0
+  m_PlayAudio: 0
+  m_AudioPlay: 0
+  m_Position:
+    m_Target: {x: 56.42807, y: 269.73093, z: 1309.5239}
+    speed: 2
+    m_Value: {x: 3.2658172, y: 264.03497, z: 1314.3514}
+  m_RenderMode: 0
+  m_CameraMode:
+    drawMode: 0
+    name: Shaded
+    section: Shading Mode
+  m_ValidateTrueMetals: 0
+  m_DoValidateTrueMetals: 0
+  m_ExposureSliderValue: 0
+  m_SceneViewState:
+    m_AlwaysRefresh: 0
+    showFog: 1
+    showSkybox: 1
+    showFlares: 1
+    showImageEffects: 1
+    showParticleSystems: 1
+    showVisualEffectGraphs: 1
+    m_FxEnabled: 1
+  m_Grid:
+    xGrid:
+      m_Fade:
+        m_Target: 0
+        speed: 2
+        m_Value: 0
+      m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
+      m_Pivot: {x: 0, y: 0, z: 0}
+      m_Size: {x: 0, y: 0}
+    yGrid:
+      m_Fade:
+        m_Target: 0
+        speed: 2
+        m_Value: 0
+      m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
+      m_Pivot: {x: 0, y: 0, z: 0}
+      m_Size: {x: 1, y: 1}
+    zGrid:
+      m_Fade:
+        m_Target: 1
+        speed: 2
+        m_Value: 1
+      m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
+      m_Pivot: {x: 0, y: 0, z: 0}
+      m_Size: {x: 1, y: 1}
+    m_ShowGrid: 1
+    m_GridAxis: 1
+    m_gridOpacity: 0.5
+  m_Rotation:
+    m_Target: {x: 0, y: 0, z: 0, w: 1}
+    speed: 2
+    m_Value: {x: 0, y: 0, z: 0, w: 1}
+  m_Size:
+    m_Target: 1280.6372
+    speed: 2
+    m_Value: 1340.9813
+  m_Ortho:
+    m_Target: 1
+    speed: 2
+    m_Value: 1
+  m_CameraSettings:
+    m_Speed: 1
+    m_SpeedNormalized: 0.5
+    m_SpeedMin: 0.001
+    m_SpeedMax: 2
+    m_EasingEnabled: 1
+    m_EasingDuration: 0.4
+    m_AccelerationEnabled: 1
+    m_FieldOfViewHorizontalOrVertical: 60
+    m_NearClip: 0.03
+    m_FarClip: 10000
+    m_DynamicClip: 1
+    m_OcclusionCulling: 0
+  m_LastSceneViewRotation: {x: 0.22337854, y: -0.6707199, z: 0.22324426, w: 0.6711227}
+  m_LastSceneViewOrtho: 0
+  m_ReplacementShader: {fileID: 0}
+  m_ReplacementString: 
+  m_SceneVisActive: 1
+  m_LastLockedObject: {fileID: 0}
+  m_ViewIsLockedToObject: 0
+--- !u!114 &3
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 4}
+  - {fileID: 10}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 2363
+    height: 1307
+  m_MinSize: {x: 403, y: 492}
+  m_MaxSize: {x: 10001, y: 14042}
+  vertical: 1
+  controlID: 26
+--- !u!114 &4
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 5}
+  - {fileID: 7}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 2363
+    height: 775
+  m_MinSize: {x: 403, y: 221}
+  m_MaxSize: {x: 8003, y: 4021}
+  vertical: 0
+  controlID: 27
+--- !u!114 &5
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 652
+    height: 775
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
+  m_ActualView: {fileID: 6}
+  m_Panes:
+  - {fileID: 6}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &6
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12061, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Hierarchy
+    m_Image: {fileID: 7966133145522015247, guid: 0000000000000000d000000000000000, type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 73
+    width: 651
+    height: 754
+  m_ViewDataDictionary: {fileID: 0}
+  m_SceneHierarchy:
+    m_TreeViewState:
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 30b4fdff
+      m_LastClickedID: -150480
+      m_ExpandedIDs: 38c3fdff0cc7fdffc4cdfdff62dafdff84dafdff32dcfdff3adcfdff42dcfdffdadffdff66e3fdff90e9fdff20f0fdffaaf6fdffe8f9fdff26fafdffa0fdfdff2a04feff4004feff4c04feffee05feffd00cfefffa0cfeffee8fffff9c92ffffaa92ffffce92fffff895ffff7096ffff44fbffff74000100be000100cc000100d2000100
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 5}
+      m_SearchString: 
+    m_ExpandedScenes: []
+    m_CurrenRootInstanceID: 0
+    m_LockTracker:
+      m_IsLocked: 0
+    m_CurrentSortingName: TransformSorting
+  m_WindowGUID: 4c969a2b90040154d917609493e03593
+--- !u!114 &7
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: SceneView
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 652
+    y: 0
+    width: 1711
+    height: 775
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 2}
+  m_Panes:
+  - {fileID: 2}
+  - {fileID: 8}
+  - {fileID: 9}
+  m_Selected: 0
+  m_LastSelected: 1
+--- !u!114 &8
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12015, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Game
+    m_Image: {fileID: -6423792434712278376, guid: 0000000000000000d000000000000000, type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 652
+    y: 73
+    width: 1709
+    height: 754
+  m_ViewDataDictionary: {fileID: 0}
+  m_SerializedViewNames: []
+  m_SerializedViewValues: []
+  m_PlayModeViewName: GameView
+  m_ShowGizmos: 0
+  m_TargetDisplay: 0
+  m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
+  m_TargetSize: {x: 1709, y: 733}
+  m_TextureFilterMode: 0
+  m_TextureHideFlags: 61
+  m_RenderIMGUI: 1
+  m_MaximizeOnPlay: 0
+  m_UseMipMap: 0
+  m_VSyncEnabled: 0
+  m_Gizmos: 0
+  m_Stats: 0
+  m_SelectedSizes: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_ZoomArea:
+    m_HRangeLocked: 0
+    m_VRangeLocked: 0
+    hZoomLockedByDefault: 0
+    vZoomLockedByDefault: 0
+    m_HBaseRangeMin: -854.5
+    m_HBaseRangeMax: 854.5
+    m_VBaseRangeMin: -366.5
+    m_VBaseRangeMax: 366.5
+    m_HAllowExceedBaseRangeMin: 1
+    m_HAllowExceedBaseRangeMax: 1
+    m_VAllowExceedBaseRangeMin: 1
+    m_VAllowExceedBaseRangeMax: 1
+    m_ScaleWithWindow: 0
+    m_HSlider: 0
+    m_VSlider: 0
+    m_IgnoreScrollWheelUntilClicked: 0
+    m_EnableMouseInput: 0
+    m_EnableSliderZoomHorizontal: 0
+    m_EnableSliderZoomVertical: 0
+    m_UniformScale: 1
+    m_UpDirection: 1
+    m_DrawArea:
+      serializedVersion: 2
+      x: 0
+      y: 21
+      width: 1709
+      height: 733
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 854.5, y: 366.5}
+    m_MarginLeft: 0
+    m_MarginRight: 0
+    m_MarginTop: 0
+    m_MarginBottom: 0
+    m_LastShownAreaInsideMargins:
+      serializedVersion: 2
+      x: -854.5
+      y: -366.5
+      width: 1709
+      height: 733
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+  m_LastWindowPixelSize: {x: 1709, y: 754}
+  m_ClearInEditMode: 1
+  m_NoCameraWarning: 1
+  m_LowResolutionForAspectRatios: 01000000000000000000
+  m_XRRenderMode: 0
+  m_RenderTexture: {fileID: 0}
+--- !u!114 &9
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12914, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Animator
+    m_Image: {fileID: -1673928668082335149, guid: 0000000000000000d000000000000000, type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 933
+    y: 73
+    width: 1428
+    height: 759
+  m_ViewDataDictionary: {fileID: 0}
+  m_ViewTransforms:
+    m_KeySerializationHelper:
+    - {fileID: -4728803044484595348, guid: 40cfe5f4633028844aad80696856c136, type: 2}
+    m_ValueSerializationHelper:
+    - e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+  m_PreviewAnimator: {fileID: 0}
+  m_AnimatorController: {fileID: 9100000, guid: 40cfe5f4633028844aad80696856c136, type: 2}
+  m_BreadCrumbs:
+  - m_Target: {fileID: -4728803044484595348, guid: 40cfe5f4633028844aad80696856c136, type: 2}
+    m_ScrollPosition: {x: 0, y: 0}
+  stateMachineGraph: {fileID: 0}
+  stateMachineGraphGUI: {fileID: 0}
+  blendTreeGraph: {fileID: 0}
+  blendTreeGraphGUI: {fileID: 0}
+  m_AutoLiveLink: 1
+  m_MiniTool: 0
+  m_LockTracker:
+    m_IsLocked: 0
+  m_CurrentEditor: 0
+  m_LayerEditor:
+    m_SelectedLayerIndex: 0
+--- !u!114 &10
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: ProjectBrowser
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 775
+    width: 2363
+    height: 532
+  m_MinSize: {x: 231, y: 271}
+  m_MaxSize: {x: 10001, y: 10021}
+  m_ActualView: {fileID: 11}
+  m_Panes:
+  - {fileID: 11}
+  - {fileID: 12}
+  - {fileID: 13}
+  - {fileID: 14}
+  m_Selected: 0
+  m_LastSelected: 1
+--- !u!114 &11
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12014, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
+  m_TitleContent:
+    m_Text: Project
+    m_Image: {fileID: -5467254957812901981, guid: 0000000000000000d000000000000000, type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 848
+    width: 2362
+    height: 511
+  m_ViewDataDictionary: {fileID: 0}
+  m_SearchFilter:
+    m_NameFilter: 
+    m_ClassNames: []
+    m_AssetLabels: []
+    m_AssetBundleNames: []
+    m_VersionControlStates: []
+    m_SoftLockControlStates: []
+    m_ReferencingInstanceIDs: 
+    m_SceneHandles: 
+    m_ShowAllHits: 0
+    m_SkipHidden: 0
+    m_SearchArea: 0
+    m_Folders:
+    - Assets/Scenes
+    m_Globs: []
+    m_OriginalText: 
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets/Scenes
+  m_LastFoldersGridSize: -1
+  m_LastProjectPath: D:\Unity\SWENG480\ProjectZephyr\ProjectZephyr
+  m_LockTracker:
+    m_IsLocked: 0
+  m_FolderTreeState:
+    scrollPos: {x: 0, y: 453}
+    m_SelectedIDs: 1e450000
+    m_LastClickedID: 17694
+    m_ExpandedIDs: 00000000d4440000d6440000d8440000da440000dc440000de440000e0440000e2440000e4440000e6440000e8440000ea440000ec440000ee440000f04400000445000008450000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 10}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_AssetTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 00000000d4440000d6440000d8440000da440000dc440000de440000e0440000e2440000e4440000e6440000e8440000ea440000ec440000ee440000f0440000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 0}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_ListAreaState:
+    m_SelectedInstanceIDs: 30b4fdff
+    m_LastClickedInstanceID: -150480
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: c6230000f44000004e3f00000a6d0000c84f000000000000ba4f0000bc4f0000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 10}
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+    m_NewAssetIndexInList: -1
+    m_ScrollPosition: {x: 0, y: 0}
+    m_GridSize: 64
+  m_SkipHiddenPackages: 0
+  m_DirectoriesAreaWidth: 205
+--- !u!114 &12
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12003, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Console
+    m_Image: {fileID: -4327648978806127646, guid: 0000000000000000d000000000000000, type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 849
+    width: 2363
+    height: 510
+  m_ViewDataDictionary: {fileID: 0}
+--- !u!114 &13
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12373, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Audio Mixer
+    m_Image: {fileID: 2344599766593239149, guid: 0000000000000000d000000000000000, type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 847
+    width: 2362
+    height: 512
+  m_ViewDataDictionary: {fileID: 0}
+  m_MixersTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 
+    m_LastClickedID: 18818
+    m_ExpandedIDs: 12eb343c
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 0
+      m_ClientGUIView: {fileID: 0}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_LayoutStripsOnTop:
+    m_VerticalSplitter:
+      ID: 0
+      splitterInitialOffset: 0
+      currentActiveSplitter: -1
+      realSizes:
+      - 65
+      - 35
+      relativeSizes:
+      - 0.65
+      - 0.35000002
+      minSizes:
+      - 85
+      - 105
+      maxSizes:
+      - 0
+      - 0
+      lastTotalSize: 0
+      splitSize: 6
+      xOffset: 0
+      m_Version: 1
+      oldRealSizes: 
+      oldMinSizes: 
+      oldMaxSizes: 
+      oldSplitSize: 0
+    m_HorizontalSplitter:
+      ID: 0
+      splitterInitialOffset: 0
+      currentActiveSplitter: -1
+      realSizes:
+      - 60
+      - 60
+      - 60
+      - 60
+      relativeSizes:
+      - 0.25
+      - 0.25
+      - 0.25
+      - 0.25
+      minSizes:
+      - 85
+      - 85
+      - 85
+      - 85
+      maxSizes:
+      - 0
+      - 0
+      - 0
+      - 0
+      lastTotalSize: 0
+      splitSize: 6
+      xOffset: 0
+      m_Version: 1
+      oldRealSizes: 
+      oldMinSizes: 
+      oldMaxSizes: 
+      oldSplitSize: 0
+  m_LayoutStripsOnRight:
+    m_VerticalSplitter:
+      ID: 0
+      splitterInitialOffset: 0
+      currentActiveSplitter: -1
+      realSizes:
+      - 60
+      - 60
+      - 60
+      - 60
+      relativeSizes:
+      - 0.25
+      - 0.25
+      - 0.25
+      - 0.25
+      minSizes:
+      - 100
+      - 85
+      - 85
+      - 85
+      maxSizes:
+      - 0
+      - 0
+      - 0
+      - 0
+      lastTotalSize: 0
+      splitSize: 6
+      xOffset: 0
+      m_Version: 1
+      oldRealSizes: 
+      oldMinSizes: 
+      oldMaxSizes: 
+      oldSplitSize: 0
+    m_HorizontalSplitter:
+      ID: 226
+      splitterInitialOffset: 0
+      currentActiveSplitter: -1
+      realSizes:
+      - 709
+      - 1653
+      relativeSizes:
+      - 0.3
+      - 0.7
+      minSizes:
+      - 160
+      - 160
+      maxSizes:
+      - 0
+      - 0
+      lastTotalSize: 2362
+      splitSize: 6
+      xOffset: 0
+      m_Version: 1
+      oldRealSizes: 
+      oldMinSizes: 
+      oldMaxSizes: 
+      oldSplitSize: 0
+  m_SectionOrder: 00000000030000000100000002000000
+  m_LayoutMode: 1
+  m_SortGroupsAlphabetically: 0
+  m_ShowReferencedBuses: 1
+  m_ShowBusConnections: 0
+  m_ShowBusConnectionsOfSelection: 0
+--- !u!114 &14
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13401, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Test Runner
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 847
+    width: 2362
+    height: 512
+  m_ViewDataDictionary: {fileID: 0}
+  m_Spl:
+    ID: 400
+    splitterInitialOffset: 172
+    currentActiveSplitter: -1
+    realSizes:
+    - 105
+    - 337
+    relativeSizes:
+    - 0.23853211
+    - 0.7614679
+    minSizes:
+    - 32
+    - 32
+    maxSizes:
+    - 0
+    - 0
+    lastTotalSize: 442
+    splitSize: 6
+    xOffset: 0
+    m_Version: 1
+    oldRealSizes: 
+    oldMinSizes: 
+    oldMaxSizes: 
+    oldSplitSize: 0
+  m_TestTypeToolbarIndex: 1
+  m_PlayModeTestListGUI:
+    m_Window: {fileID: 14}
+    m_NewResultList:
+    - id: 1007
+      uniqueId: '[ProjectZephyr][suite]'
+      name: ProjectZephyr
+      fullName: ProjectZephyr
+      resultStatus: 2
+      duration: 0.2623768
+      messages: One or more child tests had errors
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 
+      parentUniqueId: 
+    - id: 1022
+      uniqueId: '[PlayMode][D:/Unity/SWENG480/ProjectZephyr/ProjectZephyr/Library/ScriptAssemblies/PlayMode.dll][suite]'
+      name: PlayMode.dll
+      fullName: D:/Unity/SWENG480/ProjectZephyr/ProjectZephyr/Library/ScriptAssemblies/PlayMode.dll
+      resultStatus: 2
+      duration: 0.0612905
+      messages: One or more child tests had errors
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1007
+      parentUniqueId: '[ProjectZephyr][suite]'
+    - id: 1008
+      uniqueId: PlayMode.dll/[PlayMode][HealthCheck][suite]
+      name: HealthCheck
+      fullName: HealthCheck
+      resultStatus: 2
+      duration: 0.0206361
+      messages: 'Unhandled log message: ''[Error] Scene ''2_testLevel'' couldn''t
+        be loaded because it has not been added to the build settings or the AssetBundle
+        has not been loaded.
+
+        To add a scene to the build settings use the
+        menu File->Build Settings...''. Use UnityEngine.TestTools.LogAssert.Expect'
+      output: 'Scene ''2_testLevel'' couldn''t be loaded because it has not been
+        added to the build settings or the AssetBundle has not been loaded.
+
+        To
+        add a scene to the build settings use the menu File->Build Settings...
+
+'
+      stacktrace: 'UnityEngine.SceneManagement.SceneManager:LoadScene (string)
+
+        HealthCheck:LoadScene
+        () (at Assets/LevelTestingKristian/Test/PlayMode/HealthCheck.cs:15)
+
+        System.Reflection.MethodBase:Invoke
+        (object,object[])
+
+        NUnit.Framework.Internal.Reflect:InvokeMethod
+        (System.Reflection.MethodInfo,object,object[])
+
+        NUnit.Framework.Internal.Reflect:InvokeMethod
+        (System.Reflection.MethodInfo,object)
+
+        NUnit.Framework.Internal.Commands.SetUpTearDownItem:RunNonAsyncMethod
+        (System.Reflection.MethodInfo,NUnit.Framework.Internal.ITestExecutionContext)
+
+        NUnit.Framework.Internal.Commands.SetUpTearDownItem:RunSetUpOrTearDownMethod
+        (NUnit.Framework.Internal.ITestExecutionContext,System.Reflection.MethodInfo)
+
+        NUnit.Framework.Internal.Commands.SetUpTearDownItem:RunSetUp
+        (NUnit.Framework.Internal.ITestExecutionContext)
+
+        NUnit.Framework.Internal.Commands.OneTimeSetUpCommand:Execute
+        (NUnit.Framework.Internal.ITestExecutionContext)
+
+        UnityEngine.SetupCoroutine:InvokeMoveNext
+        (System.Collections.IEnumerator,intptr)
+
+
+
+'
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1022
+      parentUniqueId: '[PlayMode][D:/Unity/SWENG480/ProjectZephyr/ProjectZephyr/Library/ScriptAssemblies/PlayMode.dll][suite]'
+    - id: 1009
+      uniqueId: PlayMode.dll/HealthCheck/[PlayMode][HealthCheck.checkSheilds]
+      name: checkSheilds
+      fullName: HealthCheck.checkSheilds
+      resultStatus: 2
+      duration: 0
+      messages: 'OneTimeSetUp: Unhandled log message: ''[Error] Scene ''2_testLevel''
+        couldn''t be loaded because it has not been added to the build settings or
+        the AssetBundle has not been loaded.
+
+        To add a scene to the build
+        settings use the menu File->Build Settings...''. Use UnityEngine.TestTools.LogAssert.Expect'
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1008
+      parentUniqueId: PlayMode.dll/[PlayMode][HealthCheck][suite]
+    - id: 1010
+      uniqueId: PlayMode.dll/[PlayMode][ShieldChecking][suite]
+      name: ShieldChecking
+      fullName: ShieldChecking
+      resultStatus: 2
+      duration: 0.0031654
+      messages: 'Unhandled log message: ''[Error] Scene ''2_testLevel'' couldn''t
+        be loaded because it has not been added to the build settings or the AssetBundle
+        has not been loaded.
+
+        To add a scene to the build settings use the
+        menu File->Build Settings...''. Use UnityEngine.TestTools.LogAssert.Expect'
+      output: 'Scene ''2_testLevel'' couldn''t be loaded because it has not been
+        added to the build settings or the AssetBundle has not been loaded.
+
+        To
+        add a scene to the build settings use the menu File->Build Settings...
+
+'
+      stacktrace: 'UnityEngine.SceneManagement.SceneManager:LoadScene (string)
+
+        ShieldChecking:LoadScene
+        () (at Assets/LevelTestingKristian/Test/PlayMode/ShieldChecking.cs:16)
+
+        System.Reflection.MethodBase:Invoke
+        (object,object[])
+
+        NUnit.Framework.Internal.Reflect:InvokeMethod
+        (System.Reflection.MethodInfo,object,object[])
+
+        NUnit.Framework.Internal.Reflect:InvokeMethod
+        (System.Reflection.MethodInfo,object)
+
+        NUnit.Framework.Internal.Commands.SetUpTearDownItem:RunNonAsyncMethod
+        (System.Reflection.MethodInfo,NUnit.Framework.Internal.ITestExecutionContext)
+
+        NUnit.Framework.Internal.Commands.SetUpTearDownItem:RunSetUpOrTearDownMethod
+        (NUnit.Framework.Internal.ITestExecutionContext,System.Reflection.MethodInfo)
+
+        NUnit.Framework.Internal.Commands.SetUpTearDownItem:RunSetUp
+        (NUnit.Framework.Internal.ITestExecutionContext)
+
+        NUnit.Framework.Internal.Commands.OneTimeSetUpCommand:Execute
+        (NUnit.Framework.Internal.ITestExecutionContext)
+
+        UnityEngine.SetupCoroutine:InvokeMoveNext
+        (System.Collections.IEnumerator,intptr)
+
+
+
+'
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1022
+      parentUniqueId: '[PlayMode][D:/Unity/SWENG480/ProjectZephyr/ProjectZephyr/Library/ScriptAssemblies/PlayMode.dll][suite]'
+    - id: 1011
+      uniqueId: PlayMode.dll/ShieldChecking/[PlayMode][ShieldChecking.checkSheilds]
+      name: checkSheilds
+      fullName: ShieldChecking.checkSheilds
+      resultStatus: 2
+      duration: 0
+      messages: 'OneTimeSetUp: Unhandled log message: ''[Error] Scene ''2_testLevel''
+        couldn''t be loaded because it has not been added to the build settings or
+        the AssetBundle has not been loaded.
+
+        To add a scene to the build
+        settings use the menu File->Build Settings...''. Use UnityEngine.TestTools.LogAssert.Expect'
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1010
+      parentUniqueId: PlayMode.dll/[PlayMode][ShieldChecking][suite]
+    - id: 1012
+      uniqueId: PlayMode.dll/[PlayMode][TestDown][suite]
+      name: TestDown
+      fullName: TestDown
+      resultStatus: 2
+      duration: 0.0041185
+      messages: 'Unhandled log message: ''[Error] Scene ''2_testLevel'' couldn''t
+        be loaded because it has not been added to the build settings or the AssetBundle
+        has not been loaded.
+
+        To add a scene to the build settings use the
+        menu File->Build Settings...''. Use UnityEngine.TestTools.LogAssert.Expect'
+      output: 'Scene ''2_testLevel'' couldn''t be loaded because it has not been
+        added to the build settings or the AssetBundle has not been loaded.
+
+        To
+        add a scene to the build settings use the menu File->Build Settings...
+
+'
+      stacktrace: 'UnityEngine.SceneManagement.SceneManager:LoadScene (string)
+
+        TestDown:LoadScene
+        () (at Assets/LevelTestingKristian/Test/PlayMode/TestDown.cs:13)
+
+        System.Reflection.MethodBase:Invoke
+        (object,object[])
+
+        NUnit.Framework.Internal.Reflect:InvokeMethod
+        (System.Reflection.MethodInfo,object,object[])
+
+        NUnit.Framework.Internal.Reflect:InvokeMethod
+        (System.Reflection.MethodInfo,object)
+
+        NUnit.Framework.Internal.Commands.SetUpTearDownItem:RunNonAsyncMethod
+        (System.Reflection.MethodInfo,NUnit.Framework.Internal.ITestExecutionContext)
+
+        NUnit.Framework.Internal.Commands.SetUpTearDownItem:RunSetUpOrTearDownMethod
+        (NUnit.Framework.Internal.ITestExecutionContext,System.Reflection.MethodInfo)
+
+        NUnit.Framework.Internal.Commands.SetUpTearDownItem:RunSetUp
+        (NUnit.Framework.Internal.ITestExecutionContext)
+
+        NUnit.Framework.Internal.Commands.OneTimeSetUpCommand:Execute
+        (NUnit.Framework.Internal.ITestExecutionContext)
+
+        UnityEngine.SetupCoroutine:InvokeMoveNext
+        (System.Collections.IEnumerator,intptr)
+
+
+
+'
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1022
+      parentUniqueId: '[PlayMode][D:/Unity/SWENG480/ProjectZephyr/ProjectZephyr/Library/ScriptAssemblies/PlayMode.dll][suite]'
+    - id: 1013
+      uniqueId: PlayMode.dll/TestDown/[PlayMode][TestDown.Left]
+      name: Left
+      fullName: TestDown.Left
+      resultStatus: 2
+      duration: 0
+      messages: 'OneTimeSetUp: Unhandled log message: ''[Error] Scene ''2_testLevel''
+        couldn''t be loaded because it has not been added to the build settings or
+        the AssetBundle has not been loaded.
+
+        To add a scene to the build
+        settings use the menu File->Build Settings...''. Use UnityEngine.TestTools.LogAssert.Expect'
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1012
+      parentUniqueId: PlayMode.dll/[PlayMode][TestDown][suite]
+    - id: 1014
+      uniqueId: PlayMode.dll/[PlayMode][TestLeft][suite]
+      name: TestLeft
+      fullName: TestLeft
+      resultStatus: 2
+      duration: 0.0028962
+      messages: 'Unhandled log message: ''[Error] Scene ''2_testLevel'' couldn''t
+        be loaded because it has not been added to the build settings or the AssetBundle
+        has not been loaded.
+
+        To add a scene to the build settings use the
+        menu File->Build Settings...''. Use UnityEngine.TestTools.LogAssert.Expect'
+      output: 'Scene ''2_testLevel'' couldn''t be loaded because it has not been
+        added to the build settings or the AssetBundle has not been loaded.
+
+        To
+        add a scene to the build settings use the menu File->Build Settings...
+
+'
+      stacktrace: 'UnityEngine.SceneManagement.SceneManager:LoadScene (string)
+
+        TestLeft:LoadScene
+        () (at Assets/LevelTestingKristian/Test/PlayMode/TestLeft.cs:13)
+
+        System.Reflection.MethodBase:Invoke
+        (object,object[])
+
+        NUnit.Framework.Internal.Reflect:InvokeMethod
+        (System.Reflection.MethodInfo,object,object[])
+
+        NUnit.Framework.Internal.Reflect:InvokeMethod
+        (System.Reflection.MethodInfo,object)
+
+        NUnit.Framework.Internal.Commands.SetUpTearDownItem:RunNonAsyncMethod
+        (System.Reflection.MethodInfo,NUnit.Framework.Internal.ITestExecutionContext)
+
+        NUnit.Framework.Internal.Commands.SetUpTearDownItem:RunSetUpOrTearDownMethod
+        (NUnit.Framework.Internal.ITestExecutionContext,System.Reflection.MethodInfo)
+
+        NUnit.Framework.Internal.Commands.SetUpTearDownItem:RunSetUp
+        (NUnit.Framework.Internal.ITestExecutionContext)
+
+        NUnit.Framework.Internal.Commands.OneTimeSetUpCommand:Execute
+        (NUnit.Framework.Internal.ITestExecutionContext)
+
+        UnityEngine.SetupCoroutine:InvokeMoveNext
+        (System.Collections.IEnumerator,intptr)
+
+
+
+'
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1022
+      parentUniqueId: '[PlayMode][D:/Unity/SWENG480/ProjectZephyr/ProjectZephyr/Library/ScriptAssemblies/PlayMode.dll][suite]'
+    - id: 1015
+      uniqueId: PlayMode.dll/TestLeft/[PlayMode][TestLeft.Left]
+      name: Left
+      fullName: TestLeft.Left
+      resultStatus: 2
+      duration: 0
+      messages: 'OneTimeSetUp: Unhandled log message: ''[Error] Scene ''2_testLevel''
+        couldn''t be loaded because it has not been added to the build settings or
+        the AssetBundle has not been loaded.
+
+        To add a scene to the build
+        settings use the menu File->Build Settings...''. Use UnityEngine.TestTools.LogAssert.Expect'
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1014
+      parentUniqueId: PlayMode.dll/[PlayMode][TestLeft][suite]
+    - id: 1016
+      uniqueId: PlayMode.dll/[PlayMode][TestRight][suite]
+      name: TestRight
+      fullName: TestRight
+      resultStatus: 2
+      duration: 0.0028475
+      messages: 'Unhandled log message: ''[Error] Scene ''2_testLevel'' couldn''t
+        be loaded because it has not been added to the build settings or the AssetBundle
+        has not been loaded.
+
+        To add a scene to the build settings use the
+        menu File->Build Settings...''. Use UnityEngine.TestTools.LogAssert.Expect'
+      output: 'Scene ''2_testLevel'' couldn''t be loaded because it has not been
+        added to the build settings or the AssetBundle has not been loaded.
+
+        To
+        add a scene to the build settings use the menu File->Build Settings...
+
+'
+      stacktrace: 'UnityEngine.SceneManagement.SceneManager:LoadScene (string)
+
+        TestRight:LoadScene
+        () (at Assets/LevelTestingKristian/Test/PlayMode/TestRight.cs:13)
+
+        System.Reflection.MethodBase:Invoke
+        (object,object[])
+
+        NUnit.Framework.Internal.Reflect:InvokeMethod
+        (System.Reflection.MethodInfo,object,object[])
+
+        NUnit.Framework.Internal.Reflect:InvokeMethod
+        (System.Reflection.MethodInfo,object)
+
+        NUnit.Framework.Internal.Commands.SetUpTearDownItem:RunNonAsyncMethod
+        (System.Reflection.MethodInfo,NUnit.Framework.Internal.ITestExecutionContext)
+
+        NUnit.Framework.Internal.Commands.SetUpTearDownItem:RunSetUpOrTearDownMethod
+        (NUnit.Framework.Internal.ITestExecutionContext,System.Reflection.MethodInfo)
+
+        NUnit.Framework.Internal.Commands.SetUpTearDownItem:RunSetUp
+        (NUnit.Framework.Internal.ITestExecutionContext)
+
+        NUnit.Framework.Internal.Commands.OneTimeSetUpCommand:Execute
+        (NUnit.Framework.Internal.ITestExecutionContext)
+
+        UnityEngine.SetupCoroutine:InvokeMoveNext
+        (System.Collections.IEnumerator,intptr)
+
+
+
+'
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1022
+      parentUniqueId: '[PlayMode][D:/Unity/SWENG480/ProjectZephyr/ProjectZephyr/Library/ScriptAssemblies/PlayMode.dll][suite]'
+    - id: 1017
+      uniqueId: PlayMode.dll/TestRight/[PlayMode][TestRight.Left]
+      name: Left
+      fullName: TestRight.Left
+      resultStatus: 2
+      duration: 0
+      messages: 'OneTimeSetUp: Unhandled log message: ''[Error] Scene ''2_testLevel''
+        couldn''t be loaded because it has not been added to the build settings or
+        the AssetBundle has not been loaded.
+
+        To add a scene to the build
+        settings use the menu File->Build Settings...''. Use UnityEngine.TestTools.LogAssert.Expect'
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1016
+      parentUniqueId: PlayMode.dll/[PlayMode][TestRight][suite]
+    - id: 1018
+      uniqueId: PlayMode.dll/[PlayMode][TestUp][suite]
+      name: TestUp
+      fullName: TestUp
+      resultStatus: 2
+      duration: 0.0025719
+      messages: 'Unhandled log message: ''[Error] Scene ''2_testLevel'' couldn''t
+        be loaded because it has not been added to the build settings or the AssetBundle
+        has not been loaded.
+
+        To add a scene to the build settings use the
+        menu File->Build Settings...''. Use UnityEngine.TestTools.LogAssert.Expect'
+      output: 'Scene ''2_testLevel'' couldn''t be loaded because it has not been
+        added to the build settings or the AssetBundle has not been loaded.
+
+        To
+        add a scene to the build settings use the menu File->Build Settings...
+
+'
+      stacktrace: 'UnityEngine.SceneManagement.SceneManager:LoadScene (string)
+
+        TestUp:LoadScene
+        () (at Assets/LevelTestingKristian/Test/PlayMode/TestUp.cs:13)
+
+        System.Reflection.MethodBase:Invoke
+        (object,object[])
+
+        NUnit.Framework.Internal.Reflect:InvokeMethod
+        (System.Reflection.MethodInfo,object,object[])
+
+        NUnit.Framework.Internal.Reflect:InvokeMethod
+        (System.Reflection.MethodInfo,object)
+
+        NUnit.Framework.Internal.Commands.SetUpTearDownItem:RunNonAsyncMethod
+        (System.Reflection.MethodInfo,NUnit.Framework.Internal.ITestExecutionContext)
+
+        NUnit.Framework.Internal.Commands.SetUpTearDownItem:RunSetUpOrTearDownMethod
+        (NUnit.Framework.Internal.ITestExecutionContext,System.Reflection.MethodInfo)
+
+        NUnit.Framework.Internal.Commands.SetUpTearDownItem:RunSetUp
+        (NUnit.Framework.Internal.ITestExecutionContext)
+
+        NUnit.Framework.Internal.Commands.OneTimeSetUpCommand:Execute
+        (NUnit.Framework.Internal.ITestExecutionContext)
+
+        UnityEngine.SetupCoroutine:InvokeMoveNext
+        (System.Collections.IEnumerator,intptr)
+
+
+
+'
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1022
+      parentUniqueId: '[PlayMode][D:/Unity/SWENG480/ProjectZephyr/ProjectZephyr/Library/ScriptAssemblies/PlayMode.dll][suite]'
+    - id: 1019
+      uniqueId: PlayMode.dll/TestUp/[PlayMode][TestUp.Left]
+      name: Left
+      fullName: TestUp.Left
+      resultStatus: 2
+      duration: 0
+      messages: 'OneTimeSetUp: Unhandled log message: ''[Error] Scene ''2_testLevel''
+        couldn''t be loaded because it has not been added to the build settings or
+        the AssetBundle has not been loaded.
+
+        To add a scene to the build
+        settings use the menu File->Build Settings...''. Use UnityEngine.TestTools.LogAssert.Expect'
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1018
+      parentUniqueId: PlayMode.dll/[PlayMode][TestUp][suite]
+    - id: 1020
+      uniqueId: PlayMode.dll/[PlayMode][TimerTest][suite]
+      name: TimerTest
+      fullName: TimerTest
+      resultStatus: 2
+      duration: 0.0075911
+      messages: 'Unhandled log message: ''[Error] Scene ''2_testLevel'' couldn''t
+        be loaded because it has not been added to the build settings or the AssetBundle
+        has not been loaded.
+
+        To add a scene to the build settings use the
+        menu File->Build Settings...''. Use UnityEngine.TestTools.LogAssert.Expect'
+      output: 'Scene ''2_testLevel'' couldn''t be loaded because it has not been
+        added to the build settings or the AssetBundle has not been loaded.
+
+        To
+        add a scene to the build settings use the menu File->Build Settings...
+
+'
+      stacktrace: 'UnityEngine.SceneManagement.SceneManager:LoadScene (string)
+
+        TimerTest:LoadScene
+        () (at Assets/LevelTestingKristian/Test/PlayMode/TimerTest.cs:15)
+
+        System.Reflection.MethodBase:Invoke
+        (object,object[])
+
+        NUnit.Framework.Internal.Reflect:InvokeMethod
+        (System.Reflection.MethodInfo,object,object[])
+
+        NUnit.Framework.Internal.Reflect:InvokeMethod
+        (System.Reflection.MethodInfo,object)
+
+        NUnit.Framework.Internal.Commands.SetUpTearDownItem:RunNonAsyncMethod
+        (System.Reflection.MethodInfo,NUnit.Framework.Internal.ITestExecutionContext)
+
+        NUnit.Framework.Internal.Commands.SetUpTearDownItem:RunSetUpOrTearDownMethod
+        (NUnit.Framework.Internal.ITestExecutionContext,System.Reflection.MethodInfo)
+
+        NUnit.Framework.Internal.Commands.SetUpTearDownItem:RunSetUp
+        (NUnit.Framework.Internal.ITestExecutionContext)
+
+        NUnit.Framework.Internal.Commands.OneTimeSetUpCommand:Execute
+        (NUnit.Framework.Internal.ITestExecutionContext)
+
+        UnityEngine.SetupCoroutine:InvokeMoveNext
+        (System.Collections.IEnumerator,intptr)
+
+
+
+'
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1022
+      parentUniqueId: '[PlayMode][D:/Unity/SWENG480/ProjectZephyr/ProjectZephyr/Library/ScriptAssemblies/PlayMode.dll][suite]'
+    - id: 1021
+      uniqueId: PlayMode.dll/TimerTest/[PlayMode][TimerTest.TimerTestWithEnumeratorPasses]
+      name: TimerTestWithEnumeratorPasses
+      fullName: TimerTest.TimerTestWithEnumeratorPasses
+      resultStatus: 2
+      duration: 0
+      messages: 'OneTimeSetUp: Unhandled log message: ''[Error] Scene ''2_testLevel''
+        couldn''t be loaded because it has not been added to the build settings or
+        the AssetBundle has not been loaded.
+
+        To add a scene to the build
+        settings use the menu File->Build Settings...''. Use UnityEngine.TestTools.LogAssert.Expect'
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1020
+      parentUniqueId: PlayMode.dll/[PlayMode][TimerTest][suite]
+    m_ResultText: 
+    m_ResultStacktrace: 
+    m_TestListState:
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: c5b87a99fcd53ba040799aa8bce5d7b09b9192e4cf440cecb345c0ecee7c13158c3cee18ffffff7f
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 0}
+      m_SearchString: 
+    m_TestRunnerUIFilter:
+      PassedHidden: 0
+      FailedHidden: 0
+      NotRunHidden: 0
+      m_SearchString: 
+      selectedCategoryMask: 0
+      availableCategories:
+      - Uncategorized
+    m_SelectedOption: 0
+  m_EditModeTestListGUI:
+    m_Window: {fileID: 14}
+    m_NewResultList:
+    - id: 1000
+      uniqueId: '[ProjectZephyr][suite]'
+      name: ProjectZephyr
+      fullName: ProjectZephyr
+      resultStatus: 2
+      duration: 0.0708343
+      messages: One or more child tests had errors
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 
+      parentUniqueId: 
+    - id: 1003
+      uniqueId: '[Assembly-CSharp-Editor][D:/Unity/SWENG480/ProjectZephyr/ProjectZephyr/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll][suite]'
+      name: Assembly-CSharp-Editor.dll
+      fullName: D:/Unity/SWENG480/ProjectZephyr/ProjectZephyr/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+      resultStatus: 2
+      duration: 0.0448343
+      messages: One or more child tests had errors
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1000
+      parentUniqueId: '[ProjectZephyr][suite]'
+    - id: 1001
+      uniqueId: Assembly-CSharp-Editor.dll/[Assembly-CSharp-Editor][DialogueScrollingTest][suite]
+      name: DialogueScrollingTest
+      fullName: DialogueScrollingTest
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1005
+      parentUniqueId: '[Assembly-CSharp-Editor][D:/Unity/SWENG480/ProjectZephyr/ProjectZephyr/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll][suite]'
+    - id: 1002
+      uniqueId: Assembly-CSharp-Editor.dll/DialogueScrollingTest/[Assembly-CSharp-Editor][DialogueScrollingTest.dialogueScrollingTest]
+      name: dialogueScrollingTest
+      fullName: DialogueScrollingTest.dialogueScrollingTest
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1001
+      parentUniqueId: Assembly-CSharp-Editor.dll/[Assembly-CSharp-Editor][DialogueScrollingTest][suite]
+    - id: 1003
+      uniqueId: Assembly-CSharp-Editor.dll/[Assembly-CSharp-Editor][TestPlayingToMainMenu][suite]
+      name: TestPlayingToMainMenu
+      fullName: TestPlayingToMainMenu
+      resultStatus: 2
+      duration: 0.0426509
+      messages: One or more child tests had errors
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1005
+      parentUniqueId: '[Assembly-CSharp-Editor][D:/Unity/SWENG480/ProjectZephyr/ProjectZephyr/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll][suite]'
+    - id: 1004
+      uniqueId: Assembly-CSharp-Editor.dll/TestPlayingToMainMenu/[Assembly-CSharp-Editor][TestPlayingToMainMenu.Test]
+      name: Test
+      fullName: TestPlayingToMainMenu.Test
+      resultStatus: 2
+      duration: 0.0260314
+      messages: "Unhandled log message: '[Error] System.InvalidOperationException:
+        This can only be used during play mode, please use EditorSceneManager.OpenScene()
+        instead.\r\n  at (wrapper managed-to-native) UnityEngine.SceneManagement.SceneManagerAPIInternal.LoadSceneAsyncNameIndexInternal_Injected(string,int,UnityEngine.SceneManagement.LoadSceneParameters&,bool)\r\n 
+        at UnityEngine.SceneManagement.SceneManagerAPIInternal.LoadSceneAsyncNameIndexInternal
+        (System.String sceneName, System.Int32 sceneBuildIndex, UnityEngine.SceneManagement.LoadSceneParameters
+        parameters, System.Boolean mustCompleteNextFrame) [0x00000] in <d3b66f0ad4e34a55b6ef91ab84878193>:0
+        \r\n  at UnityEngine.SceneManagement.SceneManagerAPI.LoadSceneAsyncByNameOrIndex
+        (System.String sceneName, System.Int32 sceneBuildIndex, UnityEngine.SceneManagement.LoadSceneParameters
+        parameters, System.Boolean mustCompleteNextFrame) [0x00000] in <d3b66f0ad4e34a55b6ef91ab84878193>:0
+        \r\n  at UnityEngine.SceneManagement.SceneManager.LoadSceneAsyncNameIndexInternal
+        (System.String sceneName, System.Int32 sceneBuildIndex, UnityEngine.SceneManagement.LoadSceneParameters
+        parameters, System.Boolean mustCompleteNextFrame) [0x00016] in <d3b66f0ad4e34a55b6ef91ab84878193>:0
+        \r\n  at UnityEngine.SceneManagement.SceneManager.LoadScene (System.String
+        sceneName, UnityEngine.SceneManagement.LoadSceneParameters parameters) [0x00001]
+        in <d3b66f0ad4e34a55b6ef91ab84878193>:0 \r\n  at UnityEngine.SceneManagement.SceneManager.LoadScene
+        (System.String sceneName) [0x00009] in <d3b66f0ad4e34a55b6ef91ab84878193>:0
+        \r\n  at MainMenuState.OnEnter () [0x0000a] in D:\\Unity\\SWENG480\\ProjectZephyr\\ProjectZephyr\\Assets\\Scripts\\StateMachine\\MainMenuState.cs:17
+        '. Use UnityEngine.TestTools.LogAssert.Expect"
+      output: "You are trying to create a MonoBehaviour using the 'new' keyword. 
+        This is not allowed.  MonoBehaviours can only be added using AddComponent().
+        Alternatively, your script can inherit from ScriptableObject or no base class
+        at all\r\nExiting MainMenu State\r\nEntering Playing State\r\nExiting Playing
+        State\r\nEntering MainMenu State\r\nSystem.InvalidOperationException: This
+        can only be used during play mode, please use EditorSceneManager.OpenScene()
+        instead.\r\n  at (wrapper managed-to-native) UnityEngine.SceneManagement.SceneManagerAPIInternal.LoadSceneAsyncNameIndexInternal_Injected(string,int,UnityEngine.SceneManagement.LoadSceneParameters&,bool)\r\n 
+        at UnityEngine.SceneManagement.SceneManagerAPIInternal.LoadSceneAsyncNameIndexInternal
+        (System.String sceneName, System.Int32 sceneBuildIndex, UnityEngine.SceneManagement.LoadSceneParameters
+        parameters, System.Boolean mustCompleteNextFrame) [0x00000] in <d3b66f0ad4e34a55b6ef91ab84878193>:0
+        \r\n  at UnityEngine.SceneManagement.SceneManagerAPI.LoadSceneAsyncByNameOrIndex
+        (System.String sceneName, System.Int32 sceneBuildIndex, UnityEngine.SceneManagement.LoadSceneParameters
+        parameters, System.Boolean mustCompleteNextFrame) [0x00000] in <d3b66f0ad4e34a55b6ef91ab84878193>:0
+        \r\n  at UnityEngine.SceneManagement.SceneManager.LoadSceneAsyncNameIndexInternal
+        (System.String sceneName, System.Int32 sceneBuildIndex, UnityEngine.SceneManagement.LoadSceneParameters
+        parameters, System.Boolean mustCompleteNextFrame) [0x00016] in <d3b66f0ad4e34a55b6ef91ab84878193>:0
+        \r\n  at UnityEngine.SceneManagement.SceneManager.LoadScene (System.String
+        sceneName, UnityEngine.SceneManagement.LoadSceneParameters parameters) [0x00001]
+        in <d3b66f0ad4e34a55b6ef91ab84878193>:0 \r\n  at UnityEngine.SceneManagement.SceneManager.LoadScene
+        (System.String sceneName) [0x00009] in <d3b66f0ad4e34a55b6ef91ab84878193>:0
+        \r\n  at MainMenuState.OnEnter () [0x0000a] in D:\\Unity\\SWENG480\\ProjectZephyr\\ProjectZephyr\\Assets\\Scripts\\StateMachine\\MainMenuState.cs:17
+        \r\n"
+      stacktrace: 'MainMenuState:OnEnter () (at Assets/Scripts/StateMachine/MainMenuState.cs:21)
+
+        PlayerStateMachine:OnEnter
+        () (at Assets/Scripts/StateMachine/PlayerStateMachine.cs:57)
+
+        PlayerStateMachine:SetState
+        (PlayerState) (at Assets/Scripts/StateMachine/PlayerStateMachine.cs:47)
+
+        PlayingState:ReturnMenu
+        () (at Assets/Scripts/StateMachine/PlayingState.cs:42)
+
+        PlayerStateMachine:ReturnMenu
+        () (at Assets/Scripts/StateMachine/PlayerStateMachine.cs:65)
+
+        TestPlayingToMainMenu:Test
+        () (at Assets/TestUpdated/Editor/TestPlayingToMainMenu.cs:11)
+
+        System.Reflection.MethodBase:Invoke
+        (object,object[])
+
+        NUnit.Framework.Internal.Reflect:InvokeMethod
+        (System.Reflection.MethodInfo,object,object[])
+
+        NUnit.Framework.Internal.MethodWrapper:Invoke
+        (object,object[])
+
+        NUnit.Framework.Internal.Commands.TestMethodCommand:RunNonAsyncTestMethod
+        (NUnit.Framework.Internal.ITestExecutionContext)
+
+        NUnit.Framework.Internal.Commands.TestMethodCommand:RunTestMethod
+        (NUnit.Framework.Internal.ITestExecutionContext)
+
+        NUnit.Framework.Internal.Commands.TestMethodCommand:Execute
+        (NUnit.Framework.Internal.ITestExecutionContext)
+
+        UnityEditor.EditorApplication:Internal_CallUpdateFunctions
+        ()
+
+
+
+'
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1003
+      parentUniqueId: Assembly-CSharp-Editor.dll/[Assembly-CSharp-Editor][TestPlayingToMainMenu][suite]
+    - id: 1004
+      uniqueId: '[EditMode][D:/Unity/SWENG480/ProjectZephyr/ProjectZephyr/Library/ScriptAssemblies/EditMode.dll][suite]'
+      name: EditMode.dll
+      fullName: D:/Unity/SWENG480/ProjectZephyr/ProjectZephyr/Library/ScriptAssemblies/EditMode.dll
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1000
+      parentUniqueId: '[ProjectZephyr][suite]'
+    - id: 1001
+      uniqueId: EditMode.dll/[EditMode][ControlTest][suite]
+      name: ControlTest
+      fullName: ControlTest
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1004
+      parentUniqueId: '[EditMode][D:/Unity/SWENG480/ProjectZephyr/ProjectZephyr/Library/ScriptAssemblies/EditMode.dll][suite]'
+    - id: 1002
+      uniqueId: EditMode.dll/ControlTest/[EditMode][ControlTest.playerMove]
+      name: playerMove
+      fullName: ControlTest.playerMove
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1001
+      parentUniqueId: EditMode.dll/[EditMode][ControlTest][suite]
+    m_ResultText: "Test (0.026s)\n---\nUnhandled log message: '[Error] System.InvalidOperationException:
+      This can only be used during play mode, please use EditorSceneManager.OpenScene()
+      instead.\r\n  at (wrapper managed-to-native) UnityEngine.SceneManagement.SceneManagerAPIInternal.LoadSceneAsyncNameIndexInternal_Injected(string,int,UnityEngine.SceneManagement.LoadSceneParameters&,bool)\r\n 
+      at UnityEngine.SceneManagement.SceneManagerAPIInternal.LoadSceneAsyncNameIndexInternal
+      (System.String sceneName, System.Int32 sceneBuildIndex, UnityEngine.SceneManagement.LoadSceneParameters
+      parameters, System.Boolean mustCompleteNextFrame) [0x00000] in <d3b66f0ad4e34a55b6ef91ab84878193>:0
+      \r\n  at UnityEngine.SceneManagement.SceneManagerAPI.LoadSceneAsyncByNameOrIndex
+      (System.String sceneName, System.Int32 sceneBuildIndex, UnityEngine.SceneManagement.LoadSceneParameters
+      parameters, System.Boolean mustCompleteNextFrame) [0x00000] in <d3b66f0ad4e34a55b6ef91ab84878193>:0
+      \r\n  at UnityEngine.SceneManagement.SceneManager.LoadSceneAsyncNameIndexInternal
+      (System.String sceneName, System.Int32 sceneBuildIndex, UnityEngine.SceneManagement.LoadSceneParameters
+      parameters, System.Boolean mustCompleteNextFrame) [0x00016] in <d3b66f0ad4e34a55b6ef91ab84878193>:0
+      \r\n  at UnityEngine.SceneManagement.SceneManager.LoadScene (System.String
+      sceneName, UnityEngine.SceneManagement.LoadSceneParameters parameters) [0x00001]
+      in <d3b66f0ad4e34a55b6ef91ab84878193>:0 \r\n  at UnityEngine.SceneManagement.SceneManager.LoadScene
+      (System.String sceneName) [0x00009] in <d3b66f0ad4e34a55b6ef91ab84878193>:0
+      \r\n  at MainMenuState.OnEnter () [0x0000a] in D:\\Unity\\SWENG480\\ProjectZephyr\\ProjectZephyr\\Assets\\Scripts\\StateMachine\\MainMenuState.cs:17
+      '. Use UnityEngine.TestTools.LogAssert.Expect\n---\nMainMenuState:OnEnter ()
+      (at Assets/Scripts/StateMachine/MainMenuState.cs:21)\nPlayerStateMachine:OnEnter
+      () (at Assets/Scripts/StateMachine/PlayerStateMachine.cs:57)\nPlayerStateMachine:SetState
+      (PlayerState) (at Assets/Scripts/StateMachine/PlayerStateMachine.cs:47)\nPlayingState:ReturnMenu
+      () (at Assets/Scripts/StateMachine/PlayingState.cs:42)\nPlayerStateMachine:ReturnMenu
+      () (at Assets/Scripts/StateMachine/PlayerStateMachine.cs:65)\nTestPlayingToMainMenu:Test
+      () (at Assets/TestUpdated/Editor/TestPlayingToMainMenu.cs:11)\nSystem.Reflection.MethodBase:Invoke
+      (object,object[])\nNUnit.Framework.Internal.Reflect:InvokeMethod (System.Reflection.MethodInfo,object,object[])\nNUnit.Framework.Internal.MethodWrapper:Invoke
+      (object,object[])\nNUnit.Framework.Internal.Commands.TestMethodCommand:RunNonAsyncTestMethod
+      (NUnit.Framework.Internal.ITestExecutionContext)\nNUnit.Framework.Internal.Commands.TestMethodCommand:RunTestMethod
+      (NUnit.Framework.Internal.ITestExecutionContext)\nNUnit.Framework.Internal.Commands.TestMethodCommand:Execute
+      (NUnit.Framework.Internal.ITestExecutionContext)\nUnityEditor.EditorApplication:Internal_CallUpdateFunctions
+      ()\n---\nYou are trying to create a MonoBehaviour using the 'new' keyword. 
+      This is not allowed.  MonoBehaviours can only be added using AddComponent().
+      Alternatively, your script can inherit from ScriptableObject or no base class
+      at all\r\nExiting MainMenu State\r\nEntering Playing State\r\nExiting Playing
+      State\r\nEntering MainMenu State\r\nSystem.InvalidOperationException: This
+      can only be used during play mode, please use EditorSceneManager.OpenScene()
+      instead.\r\n  at (wrapper managed-to-native) UnityEngine.SceneManagement.SceneManagerAPIInternal.LoadSceneAsyncNameIndexInternal_Injected(string,int,UnityEngine.SceneManagement.LoadSceneParameters&,bool)\r\n 
+      at UnityEngine.SceneManagement.SceneManagerAPIInternal.LoadSceneAsyncNameIndexInternal
+      (System.String sceneName, System.Int32 sceneBuildIndex, UnityEngine.SceneManagement.LoadSceneParameters
+      parameters, System.Boolean mustCompleteNextFrame) [0x00000] in <d3b66f0ad4e34a55b6ef91ab84878193>:0
+      \r\n  at UnityEngine.SceneManagement.SceneManagerAPI.LoadSceneAsyncByNameOrIndex
+      (System.String sceneName, System.Int32 sceneBuildIndex, UnityEngine.SceneManagement.LoadSceneParameters
+      parameters, System.Boolean mustCompleteNextFrame) [0x00000] in <d3b66f0ad4e34a55b6ef91ab84878193>:0
+      \r\n  at UnityEngine.SceneManagement.SceneManager.LoadSceneAsyncNameIndexInternal
+      (System.String sceneName, System.Int32 sceneBuildIndex, UnityEngine.SceneManagement.LoadSceneParameters
+      parameters, System.Boolean mustCompleteNextFrame) [0x00016] in <d3b66f0ad4e34a55b6ef91ab84878193>:0
+      \r\n  at UnityEngine.SceneManagement.SceneManager.LoadScene (System.String
+      sceneName, UnityEngine.SceneManagement.LoadSceneParameters parameters) [0x00001]
+      in <d3b66f0ad4e34a55b6ef91ab84878193>:0 \r\n  at UnityEngine.SceneManagement.SceneManager.LoadScene
+      (System.String sceneName) [0x00009] in <d3b66f0ad4e34a55b6ef91ab84878193>:0
+      \r\n  at MainMenuState.OnEnter () [0x0000a] in D:\\Unity\\SWENG480\\ProjectZephyr\\ProjectZephyr\\Assets\\Scripts\\StateMachine\\MainMenuState.cs:17"
+    m_ResultStacktrace: 'MainMenuState:OnEnter () (at Assets/Scripts/StateMachine/MainMenuState.cs:21)
+
+      PlayerStateMachine:OnEnter
+      () (at Assets/Scripts/StateMachine/PlayerStateMachine.cs:57)
+
+      PlayerStateMachine:SetState
+      (PlayerState) (at Assets/Scripts/StateMachine/PlayerStateMachine.cs:47)
+
+      PlayingState:ReturnMenu
+      () (at Assets/Scripts/StateMachine/PlayingState.cs:42)
+
+      PlayerStateMachine:ReturnMenu
+      () (at Assets/Scripts/StateMachine/PlayerStateMachine.cs:65)
+
+      TestPlayingToMainMenu:Test
+      () (at Assets/TestUpdated/Editor/TestPlayingToMainMenu.cs:11)
+
+      System.Reflection.MethodBase:Invoke
+      (object,object[])
+
+      NUnit.Framework.Internal.Reflect:InvokeMethod (System.Reflection.MethodInfo,object,object[])
+
+      NUnit.Framework.Internal.MethodWrapper:Invoke
+      (object,object[])
+
+      NUnit.Framework.Internal.Commands.TestMethodCommand:RunNonAsyncTestMethod
+      (NUnit.Framework.Internal.ITestExecutionContext)
+
+      NUnit.Framework.Internal.Commands.TestMethodCommand:RunTestMethod
+      (NUnit.Framework.Internal.ITestExecutionContext)
+
+      NUnit.Framework.Internal.Commands.TestMethodCommand:Execute
+      (NUnit.Framework.Internal.ITestExecutionContext)
+
+      UnityEditor.EditorApplication:Internal_CallUpdateFunctions
+      ()
+
+
+
+'
+    m_TestListState:
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 40f22b75
+      m_LastClickedID: 1965814336
+      m_ExpandedIDs: 7434fecbb345c0ec0856453affffff7f
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 0}
+      m_SearchString: 
+    m_TestRunnerUIFilter:
+      PassedHidden: 0
+      FailedHidden: 0
+      NotRunHidden: 0
+      m_SearchString: 
+      selectedCategoryMask: 0
+      availableCategories:
+      - Uncategorized
+--- !u!114 &15
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: InspectorWindow
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 2363
+    y: 0
+    width: 1077
+    height: 1307
+  m_MinSize: {x: 276, y: 121}
+  m_MaxSize: {x: 4001, y: 4021}
+  m_ActualView: {fileID: 16}
+  m_Panes:
+  - {fileID: 16}
+  - {fileID: 17}
+  m_Selected: 0
+  m_LastSelected: 1
+--- !u!114 &16
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12019, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 275, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Inspector
+    m_Image: {fileID: -2667387946076563598, guid: 0000000000000000d000000000000000, type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 2363
+    y: 73
+    width: 1076
+    height: 1286
+  m_ViewDataDictionary: {fileID: 0}
+  m_ObjectsLockedBeforeSerialization: []
+  m_InstanceIDsLockedBeforeSerialization: 
+  m_PreviewResizer:
+    m_CachedPref: 152
+    m_ControlHash: 1412526313
+    m_PrefName: Preview_InspectorPreview
+  m_LastInspectedObjectInstanceID: -1
+  m_LastVerticalScrollValue: 0
+  m_GlobalObjectId: 
+  m_LockTracker:
+    m_IsLocked: 0
+  m_PreviewWindow: {fileID: 0}
+--- !u!114 &17
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6629f1bb292b749a18b5fff7994c8b19, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 600, y: 350}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Plastic SCM
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: -601
+    y: 73
+    width: 600
+    height: 926
+  m_ViewDataDictionary: {fileID: 0}
+  mForceToOpen: 0
